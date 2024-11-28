@@ -1,0 +1,10 @@
+streamlit 
+transformers 
+openai 
+pandas 
+numpy 
+scikit-learn 
+Pillow 
+matplotlib 
+streamlit-option-menu 
+streamlit-chat
